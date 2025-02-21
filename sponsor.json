@@ -1,0 +1,48 @@
+{
+    "GRANDFATHER": {
+        "avatar": "avatar1.png",
+        "amount": 1000,
+        "ad_text": "Привет, я GRANDFATHER и это мой телеграмм канал:",
+        "ad_link": "https://t.me/+maPAsZ_SsU1hM2Ri"
+    },
+    "Aleks_L": {
+        "avatar": "avatar2.png",
+        "amount": 900,
+        "ad_text": "Заходи на мой канал о программировании:",
+        "ad_link": "https://t.me/+maPAsZ_SsU1hM2Ri"
+    },
+    "DB": {
+        "avatar": "avatar3.png",
+        "amount": 800,
+        "ad_text": "Подписывайся на мой блог:",
+        "ad_link": "https://t.me/+maPAsZ_SsU1hM2Ri"
+    },
+    "BlutPrince": {
+        "avatar": "avatar4.png",
+        "amount": 700
+    },
+    "Alex_SPB": {
+        "avatar": "avatar5.png",
+        "amount": 600
+    },
+    "Alena": {
+        "avatar": "avatar6.png",
+        "amount": 500
+    },
+    "Sponsor7": {
+        "avatar": "avatar7.png",
+        "amount": 400
+    },
+    "Sponsor8": {
+        "avatar": "avatar8.png",
+        "amount": 300
+    },
+    "Sponsor9": {
+        "avatar": "avatar9.png",
+        "amount": 200
+    },
+    "Sponsor10": {
+        "avatar": "avatar10.png",
+        "amount": 100
+    }
+}
