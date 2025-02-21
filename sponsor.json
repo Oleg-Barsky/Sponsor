@@ -1,78 +1,58 @@
-[
-    {
+{
+    "sponsor1": {
         "name": "GRANDFATHER",
         "avatar": "avatar1.png",
-        "info": "Информация о Sponsor1",
-        "description": "Описание Sponsor1",
-        "amount": 10,
+        "amount": 1000,
         "ad_text": "Привет, я GRANDFATHER и это мой телеграмм канал:",
         "ad_link": "https://t.me/+maPAsZ_SsU1hM2Ri"
     },
-    {
+    "sponsor2": {
         "name": "Aleks L",
         "avatar": "avatar2.png",
-        "info": "Информация о Sponsor2",
-        "description": "Описание Sponsor2",
         "amount": 900,
         "ad_text": "Заходи на мой канал о программировании:",
         "ad_link": "https://t.me/+maPAsZ_SsU1hM2Ri"
     },
-    {
+    "sponsor3": {
         "name": "DB",
         "avatar": "avatar3.png",
-        "info": "Информация о Sponsor3",
-        "description": "Описание Sponsor3",
         "amount": 800,
         "ad_text": "Подписывайся на мой блог:",
         "ad_link": "https://t.me/+maPAsZ_SsU1hM2Ri"
     },
-    {
+    "sponsor4": {
         "name": "BlutPrince",
         "avatar": "avatar4.png",
-        "info": "Информация о Sponsor4",
-        "description": "Описание Sponsor4",
         "amount": 700
     },
-    {
+    "sponsor5": {
         "name": "Alex_SPB",
         "avatar": "avatar5.png",
-        "info": "Информация о Sponsor5",
-        "description": "Описание Sponsor5",
         "amount": 600
     },
-    {
+    "sponsor6": {
         "name": "Alena",
         "avatar": "avatar6.png",
-        "info": "Информация о Sponsor6",
-        "description": "Описание Sponsor6",
         "amount": 500
     },
-    {
+    "sponsor7": {
         "name": "Sponsor7",
         "avatar": "avatar7.png",
-        "info": "Информация о Sponsor7",
-        "description": "Описание Sponsor7",
         "amount": 400
     },
-    {
+    "sponsor8": {
         "name": "Sponsor8",
         "avatar": "avatar8.png",
-        "info": "Информация о Sponsor8",
-        "description": "Описание Sponsor8",
         "amount": 300
     },
-    {
+    "sponsor9": {
         "name": "Sponsor9",
         "avatar": "avatar9.png",
-        "info": "Информация о Sponsor9",
-        "description": "Описание Sponsor9",
         "amount": 200
     },
-    {
+    "sponsor10": {
         "name": "Sponsor10",
         "avatar": "avatar10.png",
-        "info": "Информация о Sponsor10",
-        "description": "Описание Sponsor10",
         "amount": 100
     }
-]
+}
